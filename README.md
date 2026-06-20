@@ -30,19 +30,3 @@ The project primarily uses Chandrayaan-II data from the PRADAN portal:
 
 - **OHRC (Optical High Resolution Camera)** — High-resolution lunar surface imagery.
 - **TMC-2 (Terrain Mapping Camera 2)** — Stereo imagery and Digital Elevation Models (DEMs) for terrain analysis. :contentReference[oaicite:2]{index=2}
-
-## Repository Structure
-
-```text
-.
-├── Anuj
-├── Arnav
-├── Harshit
-├── Kartik
-├── Mayank
-├── Niharika
-├── Sayantan
-├── Sheetal
-├── PPT_Project_Moonslide_Mid_Evaluation.pdf
-├── Report_Project_Moonslide_mid_eval.pdf
-└── README.md
